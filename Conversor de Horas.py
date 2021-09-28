@@ -6,4 +6,5 @@ minutos = segundos_rest // 60
 segundos_rest = segundos_rest % 60
 
 print(horas,"horas,",minutos,"minutos e",segundos_rest,"segundos.")
+print("Programa concluído")
 
